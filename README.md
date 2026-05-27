@@ -51,7 +51,7 @@ LLM Agents are like intelligent virtual assistants powered by large language mod
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hrooo900/RoomCraft-LLM-AI-Powered-LLM-Shopping-Agent.git
+   git clone https://github.com/man-swi/DecorIQ.git
 
 
 2. Create `.env` file and install requirements.txt file
