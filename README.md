@@ -3,7 +3,6 @@ LLM Agents are like intelligent virtual assistants powered by large language mod
 
 ## Project Explaination Video
 
-[Click here to watch the video](https://drive.google.com/file/d/1MlIpbHg1HTQaJkXxy8YVgTK20Gjus_NU/view?usp=sharing)
 
 
 # RoomCraft LLM: AI-Powered LLM Shopping Agent
@@ -72,17 +71,4 @@ LLM Agents are like intelligent virtual assistants powered by large language mod
 
 ## Screenshots
 
-![App Screenshot](https://github.com/hrooo900/RoomCraft-LLM-AI-Powered-LLM-Shopping-Agent/blob/main/Screenshots/s1.png)
-
-![App Screenshot](https://github.com/hrooo900/RoomCraft-LLM-AI-Powered-LLM-Shopping-Agent/blob/main/Screenshots/s2.png)
-
-![App Screenshot](https://github.com/hrooo900/RoomCraft-LLM-AI-Powered-LLM-Shopping-Agent/blob/main/Screenshots/s3.png)
-
-![App Screenshot](https://github.com/hrooo900/RoomCraft-LLM-AI-Powered-LLM-Shopping-Agent/blob/main/Screenshots/s4.png)
-
-![App Screenshot](https://github.com/hrooo900/RoomCraft-LLM-AI-Powered-LLM-Shopping-Agent/blob/main/Screenshots/s5.png)
-
-![App Screenshot](https://github.com/hrooo900/RoomCraft-LLM-AI-Powered-LLM-Shopping-Agent/blob/main/Screenshots/s6.png)
-
-![App Screenshot](https://github.com/hrooo900/RoomCraft-LLM-AI-Powered-LLM-Shopping-Agent/blob/main/Screenshots/s7.png)
 "# DecorIQ" 
