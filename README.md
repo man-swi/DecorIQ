@@ -1,10 +1,6 @@
 # What are LLM Agents ?
 LLM Agents are like intelligent virtual assistants powered by large language models (LLMs) that can understand and process natural language to perform specific tasks. Imagine having a smart assistant that not only answers questions but can also make decisions, handle complex queries, and interact with different tools or systems to get things done for you. For example, an LLM Agent could help you book a product, calculate costs, answer customer queries, or even provide delivery estimates, all within a single conversation. The real power of LLM Agents lies in their ability to manage multiple tasks efficiently, saving time and effort by automating processes that would normally require human intervention. They are necessary because they enable businesses and individuals to streamline operations, enhance customer service, and handle repetitive tasks more effectively, all while providing accurate, real-time responses.
 
-## Project Explaination Video
-
-
-
 # DecorIQ: AI-Powered LLM Shopping Agent
 
 **RoomCraft** is an AI-powered LLM agent designed to assist customers in exploring, booking, and calculating shipping costs for furniture products. Built using Mistral AI, LangChain, LangGraph memory and OpenCage API, RoomCraft provides a seamless shopping experience by offering product details, handling customer queries, and calculating delivery estimates.
