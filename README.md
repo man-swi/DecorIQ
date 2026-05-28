@@ -5,7 +5,7 @@ LLM Agents are like intelligent virtual assistants powered by large language mod
 
 
 
-# RoomCraft LLM: AI-Powered LLM Shopping Agent
+# DecorIQ: AI-Powered LLM Shopping Agent
 
 **RoomCraft** is an AI-powered LLM agent designed to assist customers in exploring, booking, and calculating shipping costs for furniture products. Built using Mistral AI, LangChain, LangGraph memory and OpenCage API, RoomCraft provides a seamless shopping experience by offering product details, handling customer queries, and calculating delivery estimates.
 
@@ -51,7 +51,7 @@ LLM Agents are like intelligent virtual assistants powered by large language mod
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hrooo900/RoomCraft-LLM-AI-Powered-LLM-Shopping-Agent.git
+   git clone https://github.com/man-swi/DecorIQ.git
 
 
 2. Create `.env` file and install requirements.txt file
