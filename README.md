@@ -63,8 +63,3 @@ LLM Agents are like intelligent virtual assistants powered by large language mod
 - Integrate with Weaviate Vector Data Base Python Client v4 to store Chat History and Booking information.
 - Add a text to audio model which will read response to customer
 
-
-
-## Screenshots
-
-"# DecorIQ" 
